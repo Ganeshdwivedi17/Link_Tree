@@ -1,0 +1,195 @@
+       /* Navbar */
+
+       .navbar-brand{
+        font-family: 'Fasthand', cursive;
+        font-size: 2.5rem;
+    }
+    .navbar{
+       padding-bottom: 3.5rem;
+       margin: auto 5%;
+    }
+    .nav-item{
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    }
+    .nav-link:hover{
+        color: #9f704b;
+    }
+    .nav-contact{
+        background-color: #966844;
+    }
+    .nav-contact:hover{
+        background-color: #c4a792;
+    }
+    
+    
+    
+           /* Tittle */
+    
+    #title{
+      background-color: white;
+        }
+        .tittle-section{
+            text-align: center; 
+        }
+        .tittle-section .heading{
+            font-family: 'Fasthand', cursive;
+            color: #a77b59;
+           font-size: 3.5rem;
+        }
+        .tittle-subheading{
+           font-family: 'Caprasimo', cursive;
+            line-height: 1.5;
+            font-size: 2.5rem;
+            color: #744e30;
+        }
+        .tittle-text{
+            text-align: left;
+            padding: 8% 7%;
+        }
+        .tittle-img{
+           width: 100%;
+           position: relative;
+           bottom: 10%;
+        }
+        .tittle-call{
+            margin: 5% auto;
+            background-color: #966844;
+        }
+        .tittle-call:hover{
+            background-color: #c2c8c6;
+        }
+    
+    
+    
+            /* gallery */
+    
+    #gallery{
+        background-color: black;
+        padding: 5% 7%;
+        color: #fff;
+    }
+    .heading{
+        font-size: 2.5rem;
+        font-family: 'Caprasimo', cursive;
+    }
+    .gallery-img{
+      width: 90%;
+      margin: 7% 4%;
+    }
+    
+    
+    
+        /* Testiomonials */
+    
+        #testimonials{
+            background-color: #3f4e4f;
+            text-align: center;
+            color: #fff;
+         }
+         .testimonial-image{
+          border-radius: 100%;   
+          width: 20%;
+         }
+         .carousel-item{
+             padding: 7% 15%;
+         }
+    
+    /* login */
+
+    #login{
+        
+        text-align: center;
+        background-color: #9f704b;
+    }
+    
+         /* About */
+    
+     #about{
+        padding: 5% 7%;
+        background-color: #dcd7c9;
+        color: black;
+    }
+    .about-text{
+        text-align: left;
+        font-weight: 500;
+        line-height: 1.5;
+        font-size: 1.2rem;
+    }
+      .about-img{
+        width: 100%;
+        border-radius: 6%;
+      }
+      .about-img1{
+        width: 100%;
+      }
+     .lov-style{
+        font-family: 'Fasthand', cursive;
+        text-align: center;  
+        margin: auto auto 5%; 
+    }
+    
+    
+         /* contact */
+    
+        #contact{
+            padding: 7% 10%;
+            color: #fff;
+            background-color: black;
+        }
+        .contact-h1{
+            font-family: 'Caprasimo', cursive;
+            font-size: 2.5rem;
+            line-height: 1.5;
+            color: #fff;
+        }
+        .contact-icons{
+            color: #dcd7c9;
+            padding: 5%;
+        }
+        .contact-icons:hover{
+            color: #966844;
+        }
+        .form-button{    
+                background-color: #966844;  
+        }
+        .icons{
+            padding: 5% 2%;
+        }
+        .contact-text{        
+            margin: 3%;
+            width: 100%;
+            color: #fff;
+            background-color: rgb(26, 25, 25);
+        }
+       
+        input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        margin: 0; 
+    }
+        .form-button{
+            margin-top:3% ;
+        }
+        #msg{
+            color: #61b752;
+            margin-top: 1px;
+            display: block;
+        }
+    
+        /*  footer  */
+    
+        #footer{
+            padding: 1% ;
+            color: #fff;
+            text-align: center;
+            background-color: #3f4e4f;
+        }
+    
